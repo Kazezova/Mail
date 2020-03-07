@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">mail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="people_name">
+        <item>Ardak</item>
+        <item>Malika</item>
+        <item>Daulet</item>
+        <item>Zhuldyz</item>
+        <item>Kadyrgali</item>
+        <item>Dias</item>
+        <item>Sultan</item>
+        <item>Aizada</item>
+        <item>Aitgul</item>
+        <item>Nuraly</item>
+    </string-array>
+    <string-array name="phone">
+        <item>87778390281</item>
+        <item>87015115133</item>
+        <item>87088117099</item>
+        <item>87478465413</item>
+        <item>87022189510</item>
+        <item>87471310801</item>
+        <item>87776205505</item>
+        <item>8778246012</item>
+        <item>87088015183</item>
+        <item>87753377139</item>
+    </string-array>
+    <string-array name="description">
+        <item>She is studying at SDU.</item>
+        <item>She is studying at KBTU.</item>
+        <item>He is studying at KBTU.</item>
+        <item>She is studying at KBTU.</item>
+        <item>He is studying at KBTU.</item>
+        <item>He is studying at KBTU.</item>
+        <item>He is studying at KBTU.</item>
+        <item>She is studying at AGU.</item>
+        <item>She is studying at KBTU.</item>
+        <item>He is studying at KBTU.</item>
+
+    </string-array>
+</resources>
